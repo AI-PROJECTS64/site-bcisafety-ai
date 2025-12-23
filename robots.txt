@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Allow: /
 
-Sitemap: https://www.bcisafety.ai/
+Sitemap: https://www.bcisafety.ai/sitemap.xml
